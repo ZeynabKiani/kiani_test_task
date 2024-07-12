@@ -1,6 +1,4 @@
-Certainly! Here's a very concise README:
 
----
 
 # Balanced Bagging Classifier with Feature Engineering
 
